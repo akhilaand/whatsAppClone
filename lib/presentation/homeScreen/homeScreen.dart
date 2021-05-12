@@ -1,5 +1,4 @@
 import 'dart:ui';
-
 import 'package:chat_app/helper/constants.dart';
 import 'package:chat_app/helper/helperFunction.dart';
 import 'package:chat_app/presentation/chatScreen/chatScreen.dart';
